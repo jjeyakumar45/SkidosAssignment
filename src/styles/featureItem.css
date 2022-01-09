@@ -1,0 +1,8 @@
+.featureItem {
+    display: flex;
+    flex-direction: row;
+}
+
+.featureItemText {
+    margin-top: 10px;
+}

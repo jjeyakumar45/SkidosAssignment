@@ -1,0 +1,17 @@
+.featuresContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 80%;
+}
+
+.featuresColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size: large;
+    text-align: left;
+}
+
+
+

@@ -1,0 +1,45 @@
+.bannerContent {
+    position: absolute;
+    top: 120px; 
+    width: 100%; 
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.bannerTextContent {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#bannerHeading {
+    color: white;
+    font-weight: bold;
+}
+
+#bannerPara {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#tryFreeBtn {
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: darkgoldenrod;
+    border-color: orangered;
+    font: comic;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.bannerImage {
+    width: 50%;
+    height: 40%;
+    width: 40%;
+}

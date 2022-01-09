@@ -1,0 +1,16 @@
+.aboutUsContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#aboutUsVideo {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.aboutUsText {
+    text-align: left;
+    font-size: 24px;
+    font-family: sans-serif;
+    margin-right: 20px;
+}

@@ -1,0 +1,11 @@
+#languagelbl{
+    font-weight: bold;
+    font: helvetica;
+}
+
+#language{
+    height: 40px;
+    width: 80px;
+    font-size: 15px;
+    border-radius: 10px 0px 10px 0px;
+}

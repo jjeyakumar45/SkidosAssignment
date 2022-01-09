@@ -1,0 +1,30 @@
+.header img{
+    float: left;
+}
+
+#logo{
+    padding: 10px, 10px, 10px, 10px;
+    margin-left: 20px;
+}
+
+.header-right{
+    padding: 10px 10px 10px 10px;
+    float: right;
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+#login-btn{
+    font-size: 15px;
+    font-weight: bold;
+    font: helvetica;
+    color: white;
+    width: 100px;
+    height: 40px;
+    background-color: darkorange;
+    border-radius: 10px;
+    border-color: orangered;
+    margin-left: 20px;
+}
